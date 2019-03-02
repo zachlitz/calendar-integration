@@ -1,0 +1,6 @@
+{
+    "less.compile": {
+        "out": false
+    },
+    "git.ignoreLimitWarning": true
+}
